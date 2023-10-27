@@ -1,6 +1,3 @@
-Certainly! Here's a basic `README.md` template for your `RegexParser` class:
-
----
 
 # RegexParser
 
@@ -45,3 +42,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+
+License
+
+MIT License
+
+More documentation at:
+[Code Docta](https://codedocta.com "Code Docta")
